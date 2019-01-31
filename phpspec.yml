@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: servmed
+        psr4_prefix: servmed
+        src_path: app
